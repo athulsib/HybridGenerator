@@ -2,6 +2,8 @@
 
 A hybrid-mode Minecraft server plugin that pre-generates spare worlds, compresses them, and supplies them to other servers via a shared database request/response table.
 
+Never properly finished or tested in production, but the core functionality works from what i remember. Project was abandoned. 
+
 ## What it is
 - Originially meant to be a provider for battle-royale setups that offloads world generation to a dedicated server.
 - Supplies ready-made worlds as compressed BLOBs to remote servers that insert `PENDING` requests.
