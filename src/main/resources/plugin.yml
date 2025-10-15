@@ -1,0 +1,10 @@
+name: CivilizationRoyale-HybridMode
+version: '1.0-SNAPSHOT'
+main: org.itsharshxd.CivilizationRoyale.HybridMode
+api-version: '1.19'
+load: STARTUP
+authors: [ ItsHarshXD , Athishh ]
+depend:
+  - Chunky
+description: An hybrid mode world generation extension for Civilization Royale plugin.
+website: https://github.com/MatrixCreations

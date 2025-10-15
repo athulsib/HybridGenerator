@@ -1,0 +1,9 @@
+database:
+  host: "localhost"
+  port: 3306
+  database: "br"
+  username: "root"
+  password: "root"
+  table_prefix: civilizationroyale_
+
+default_world_generation_count: 20
